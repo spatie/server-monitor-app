@@ -1,0 +1,7 @@
+{
+    "name": "spatie/server-monitor-app",
+    "description": "A PHP application to monitor your servers' health",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
