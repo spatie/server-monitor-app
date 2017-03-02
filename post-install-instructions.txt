@@ -1,0 +1,24 @@
+
+
+Complete your installation by performing these steps.
+
+1. You should add the following command to your cron table. It should run
+every minute:
+---
+php <installation path>/artisan schedule:run
+---
+
+2. Specify a Slack webhook url in the `SERVER_MONITOR_SLACK_WEBHOOK_URL` key
+in the `.env` file. You can create a webhook url on the slack
+website: https://my.slack.com/services/new/incoming-webhook/
+
+3. Add your first monitor by running:
+---
+php <installation path>/artisan server-monitor:create
+---
+
+The configuration file `configuration.php` can found inside the installation directory.
+
+You'll find full documentation at https://github.com/spatie/server-monitor-app
+
+Happy monitoring!
