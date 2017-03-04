@@ -15,6 +15,10 @@ When something goes wrong it can [notify you](https://docs.spatie.be/laravel-ser
 
 Under the hood the server-monitor-app is a vanilla Laravel 5.4 application with the [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) installed into it. If you know your way around Laravel, it's recommended that you use [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) instead of this app.
 
+## Requirements
+
+See the requirements [in the docs of the underlying package](https://docs.spatie.be/laravel-server-monitor/v1/requirements).
+
 ## Installation
 
 You can install the application by issuing this command:
