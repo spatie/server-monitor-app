@@ -14,7 +14,7 @@ website: https://my.slack.com/services/new/incoming-webhook/
 
 3. Add your first monitor by running:
 ---
-php <installation path>/artisan server-monitor:create
+php <installation path>/artisan server-monitor:add-host
 ---
 
 The configuration file `configuration.php` can found inside the installation directory.
