@@ -13,7 +13,7 @@ When something goes wrong it can [notify you](https://docs.spatie.be/laravel-ser
 ![Screenshot slack](https://docs.spatie.be/images/server-monitor/check-failed.jpg)
 
 
-Under the hood the uptime-monitor is a vanilla Laravel 5.4 application with the [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) installed into it. If you know your way around Laravel, it's recommended that you use [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) instead of this app.
+Under the hood the server-monitor-app is a vanilla Laravel 5.4 application with the [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) installed into it. If you know your way around Laravel, it's recommended that you use [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) instead of this app.
 
 ## Installation
 
