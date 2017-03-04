@@ -194,6 +194,7 @@ If you discover any security related issues, please email freek@spatie.be instea
 ## Credits
 
 - [Freek Van der Herten](https://github.com/freekmurze)
+- [Alex Vanderbist](https://github.com/AlexVanderbist)
 - [All Contributors](../../contributors)
 
 ## About Spatie

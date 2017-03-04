@@ -1,9 +1,18 @@
 {
     "name": "spatie/server-monitor-app",
-    "description": "A PHP application to monitor your servers' health",
-    "keywords": ["laravel-server-monitor", "server", "monitor", "diskspace", "elasticsearch", "laravel", "spatie"],
+    "description": "A PHP application to monitor the health of your servers",
+    "keywords": ["laravel-server-monitor", "server", "monitor", "diskspace", "elasticsearch", "laravel", "spatie", "devops"],
     "type": "project",
+    "homepage": "https://github.com/spatie/server-monitor-app",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^7.0"
     },
