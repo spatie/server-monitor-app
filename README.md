@@ -15,6 +15,16 @@ When something goes wrong it can [notify you](https://docs.spatie.be/laravel-ser
 
 Under the hood the server-monitor-app is a vanilla Laravel 5.4 application with the [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) installed into it. If you know your way around Laravel, it's recommended that you use [laravel-server-monitor](https://docs.spatie.be/laravel-server-monitor) instead of this app.
 
+## Support us
+
+Learn how to create a package like this one, by watching our premium video course:
+
+[![Laravel Package training](https://spatie.be/github/package-training.jpg)](https://laravelpackage.training)
+
+We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
+
+We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
+
 ## Requirements
 
 See the requirements [in the docs of the underlying package](https://docs.spatie.be/laravel-server-monitor/v1/requirements).
