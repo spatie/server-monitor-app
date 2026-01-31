@@ -1,6 +1,3 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # A PHP application to monitor your servers' health
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/server-monitor-app.svg?style=flat-square)](https://packagist.org/packages/spatie/server-monitor-app)
